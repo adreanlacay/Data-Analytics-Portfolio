@@ -8,6 +8,21 @@ This portfolio contains projects I have worked on and are based on data or topic
 
 Whether you are reading this out of interest in me or my work, I hope you enjoy your visit!
 
+## Projects
+
+### SQL/PostgreSQL
+
+1. _Do you have a Second?_: An NBA Second-Round Draft Analysis
+2. _StockX_: Sales and Profit Overview
+
+### R
+
+1. _Parasite_: Dialogue Distribution
+
+### Tableau
+
+All of the projects listed above have an accompanying Tableau dashboard, as well as some other data visualization projects. These dashboards can be found on my [Tableau Public profile](https://public.tableau.com/app/profile/adrean.lacay/vizzes).
+
 ## Contact
 
 LinkedIn: [Adrean Lacay](www.linkedin.com/in/adreanlacay)
