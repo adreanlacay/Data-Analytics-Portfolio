@@ -25,4 +25,4 @@ All of the projects listed above have an accompanying Tableau dashboard, as well
 
 ## Contact
 
-LinkedIn: [Adrean Lacay](www.linkedin.com/in/adreanlacay)
+LinkedIn: [Adrean Lacay](https://www.linkedin.com/in/adreanlacay)
