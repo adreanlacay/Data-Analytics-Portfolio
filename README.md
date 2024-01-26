@@ -14,6 +14,7 @@ Whether you are reading this out of interest in me or my work, I hope you enjoy 
 
 1. _Do you have a Second?_: An NBA Second-Round Draft Analysis
 2. _StockX_: Sales and Profit Overview
+3. _The Education Effect_: Impact of Educational Attainment on Society in OECD Countries
 
 ### R
 
