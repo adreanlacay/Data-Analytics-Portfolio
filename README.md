@@ -6,7 +6,7 @@ Hello and welcome to my portfolio! My name is Adrean and I have a degree in Stat
 
 This portfolio contains projects I have worked on and are based on data or topics that pique my interest. It is meant to not only be shared and used to showcase my technical skills, but also be used as a reflection on my learning journey. So, while some projects may be considered "complete," some of them will also be updated occassionally as I continue to grow my skillset.
 
-Whether you are reading this out of interest in me or my work, I hope you enjoy your visit!
+Thank you for stopping by my portfolio and I hope you enjoy your visit!
 
 ## Projects
 
